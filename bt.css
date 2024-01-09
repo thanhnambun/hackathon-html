@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.form{
+    display: flex;
+    margin-top: 50px;
+    flex-direction: column;
+}
+.Header{
+    background-color: #e6c9b9;
+    height: 900px;
+    width: 100%;
+}
+.img{
+    display: flex;
+    justify-self: start;
+}
+.nava{
+    display: flex;
+    height: 30px;
+    width: 100%;
+    align-items: center;
+    gap: 280px;
+}
+.fontNava{
+    display: flex;
+    color: blue;
+    gap : 10px;
+}
+.SectionHero{
+    display: flex;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.cv{
+    width: 100px;
+    height: 40px;
+    border: 5px solid blue;
+    background-color: blue;
+}
+.Personal_Detail{
+    display: flex;
+    flex-direction: column;
+}
+.introduceYourself{
+    display: flex;
+    flex-direction: row;
+}
+.information{
+    display: flex;
+    flex-direction: column;
+}
+.icon{
+    display: flex;  
+    width: 30px; 
+    height: 30px;
+}
+p{
+    color: blue;
+}
+.namediv{
+    display: flex; 
+    align-items: center;
+}
+.My_Projects{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.product{
+    display: flex;
+}
+.item{
+    width: 150px;
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+}
+.list_product{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    gap :24px;
+}
+.list1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.assignment_information{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap :12px;
+}
+.work{
+    width: 40px;
+    height: 20px;
+    background-color: aquamarine;
+    color: black;
+}
+.made_product{
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+}
+.id{
+    display: flex;
+    gap: 20px;
+}
+.item2{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+}
+.list1.1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list2.1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list_Projects{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    gap :24px;
+}
